@@ -1,6 +1,6 @@
 # Zahid Ullah — Personal Portfolio Website
 
- **Live Site:** [zu-portfolio-website.netlify.app](https://zu-portfolio-website.netlify.app/)
+ **Live Site:** [z-portfolio-website.netlify.app](https://z-portfolio-website.netlify.app/)
 
 A personal portfolio website built with pure HTML, CSS, and Vanilla JavaScript — showcasing my projects, internship experience, technical skills, and community leadership as a Software Engineering student.
 
