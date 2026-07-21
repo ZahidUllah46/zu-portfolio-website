@@ -11,7 +11,7 @@ A personal portfolio website built with pure HTML, CSS, and Vanilla JavaScript �
 **Zahid Ullah**
 Software Engineering Student | AI/ML & Web Developer
 University of Mianwali — BS Software Engineering (Semester 6)
-📍 Khushab, Punjab, Pakistan
+Khushab, Punjab, Pakistan
 
 -  zahidullah9102@gmail.com
 -  [LinkedIn](https://linkedin.com/in/zahid-ullah-067aa7283)
@@ -20,7 +20,7 @@ University of Mianwali — BS Software Engineering (Semester 6)
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Dark, developer-style theme** inspired by GitHub's color palette
 - **Glassmorphism cards** with blur effects throughout
